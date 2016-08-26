@@ -10,8 +10,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit; // disable direct access
 }
 
-
-
 /**
  * Add all Gravity Forms capabilities to Editor role.
  * Runs during plugin activation.
