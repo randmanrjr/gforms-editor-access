@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Gforms Editor Access
+Plugin Name: Gravity Forms Editor Access
 Description: Add all Gravity Forms capabilities to Editor role.
 Version: 1.0
 Author: randmanrjr
