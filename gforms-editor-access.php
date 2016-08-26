@@ -1,4 +1,17 @@
 <?php
+/*
+Plugin Name: Gforms Editor Access
+Description: Add all Gravity Forms capabilities to Editor role.
+Version: 1.0
+Author: randmanrjr
+Author URI: https://github.com/randmanrjr
+*/
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // disable direct access
+}
+
+
+
 /**
  * Add all Gravity Forms capabilities to Editor role.
  * Runs during plugin activation.
